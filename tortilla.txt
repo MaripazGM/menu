@@ -3,6 +3,7 @@ Huevos
 Patatas
 Sal
 Cebolla
+Chorizo
 Preparación
 Se fríen las patatas 
 Se baten los huevos
