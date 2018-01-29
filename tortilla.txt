@@ -1,4 +1,4 @@
-Ingredientes
+﻿Ingredientes
 Huevos
 Patatas
 Sal
@@ -13,3 +13,5 @@ Precio ingredientes
 Huevos 1.3
 Faltan impuestps
 Precio 1.5
+
+Nuevo precio 2€
