@@ -1,4 +1,4 @@
-Ingredientes
+﻿Ingredientes
 Huevos
 Patatas
 Sal
@@ -11,3 +11,5 @@ Se pone todo a la sartén
 
 Precio ingredientes
 Huevos 1.3
+
+Bajo los huevos a 0,98 €
